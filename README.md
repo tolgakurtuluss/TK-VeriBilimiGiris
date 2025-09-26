@@ -6,7 +6,7 @@ Bu proje, veri bilimi alanında temel bilgileri öğrenmek ve uygulamak isteyenl
 
 * Projenizi hızlı bir şekilde çalıştırmak için MyBinder.org platformunu kullanabilirsiniz. Aşağıdaki butona tıklayarak projeyi başlatabilirsiniz.
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tolgakurtuluss/TK-VeriBilimiGiris/HEAD])
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tolgakurtuluss/TK-VeriBilimiGiris/HEAD)
 
 ## 2. Yöntem : Git ile Klonlama
 
